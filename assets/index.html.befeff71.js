@@ -1,0 +1,1 @@
+import{f as e,o as r,g as t}from"./app.7e25f0e2.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const c={};function a(_,s){const o=e("BlogCategory");return r(),t(o)}var l=n(c,[["render",a]]);export{l as default};

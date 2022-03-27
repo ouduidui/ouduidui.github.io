@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroText:null,tagline:null,footer:'<p class="copyright">Copyright \xA9 2020-2022 OUDUIDUI</p><a class="record" href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">\u7CA4ICP\u590719153295\u53F7</a>',footerHtml:!0},excerpt:"",headers:[],filePathRelative:"README.md"};export{t as data};
